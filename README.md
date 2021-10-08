@@ -1,3 +1,13 @@
+# Website Screen
+![screen](https://user-images.githubusercontent.com/72017753/136530713-26c71ae5-04c0-494b-bbd6-e0830e4f6d40.PNG)
+----------------------------------------------------------------------------------------------------------
+# Website Screen Two
+![screenTwo](https://user-images.githubusercontent.com/72017753/136531064-b38cdd28-62b9-4e18-b9ec-79fbf81368d7.PNG)
+----------------------------------------------------------------------------------------------------------
+# API Screen
+![goScreen](https://user-images.githubusercontent.com/72017753/136531149-d3f75de6-b80a-40e9-809f-6c5b0cc23b66.PNG)
+----------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
